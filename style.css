@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+body {
+
+    font-family: 'Inter', sans-serif; /* Семейство шрифтов */
+    font-size: 30px; /* Размер основного шрифта в <p></p>  */
+    color: #FFFFFF; /* Цвет основного текста */ 
+    background-color: #5988FF;
+    margin-right: 500px;
+}
+h1 {
+    color: #D6FF6B; /* Цвет заголовка */
+    font-size: 30px; /* Размер шрифта в пунктах */
+    font-family: 'Inter', sans-serif; /* Семейство шрифтов */
+}
+
+h3 {
+    color: #D6FF6B; /* Цвет заголовка */
+    font-size: 30px; /* Размер шрифта в пунктах */
+    font-family: 'Inter', sans-serif; /* Семейство шрифтов */  
+}
+
+.footer {
+    background-color: #FD98FB;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    text-align: center; 
+    width: 99%;   
+    font-size: 19px;
+    font-weight: bold;
+    color: #FFFFFF;  
+}
